@@ -10,7 +10,7 @@ summary: "Wo wir mit offenen Herzen auf andere zugehen, da schenkt uns Gott viel
 source: pfarrplaner
 source_id: "9@www.pfarrplaner.de"
 cover_alt: "Titelbild zur Predigt \"Englische Gäste\"."
-audio: audio.mp3
+audio: englische-gaeste.mp3
 audio_duration: "18:14"
 legacy_id: 9
 events:
